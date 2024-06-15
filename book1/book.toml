@@ -1,0 +1,6 @@
+[book]
+authors = ["panboy75"]
+language = "en"
+multilingual = false
+src = "src"
+title = "book1"
